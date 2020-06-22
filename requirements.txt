@@ -1,0 +1,4 @@
+selenium
+pynput
+
+# chromedriver.exe in path
